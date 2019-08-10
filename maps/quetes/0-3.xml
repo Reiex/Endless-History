@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">C'est bizarre, ces monstres sont les mêmes
+que ceux qui étaient dans la caverne...</dialogue>
+    <dialogue joueur="True">Cet homme n'a pas l'air d'en savoir
+beaucoup sur eux, mais peut être que je trouverais des
+infos dans cette ville: "Aubaric".</dialogue>
+    <dialogue joueur="True">D'ailleurs je vais t'expliquer
+comment utiliser cette potion et regarder la carte.</dialogue>
+    <dialogue joueur="True">Pour ouvrir l'inventaire il faut
+appuyer sur ESPACE. Tu peux avoir beaucoup d'objets, t'equiper
+de certains commes armures, en utiliser d'autres comme consommables,
+c'est le cas de la potion.</dialogue>
+    <dialogue joueur="True">Deplace la potion dans la case des consommables
+en haut à droite, puis referme l'inventaire.</dialogue>
+    <dialogue joueur="True">Une fois l'inventaire fermé, tu n'a
+plus qu'a faire un clique droit pour utiliser l'objet dans
+la case des consommables.</dialogue>
+    <dialogue joueur="True">Pour regarder la carte, enfin, il suffit
+d'appuyer sur la touche M.</dialogue>
+</actions>

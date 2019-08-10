@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">Encore une quête secondaire avec
+une petite caverne à explorer ?!</dialogue>
+    <dialogue joueur="True">Enfin... ça peut toujours être
+intéressant...</dialogue>
+</actions>

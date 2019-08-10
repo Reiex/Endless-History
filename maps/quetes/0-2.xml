@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">Bonjour ! ...
+Excusez-moi mais.. Où suis-je ?</dialogue>
+    <dialogue joueur="False">Dans ma maison.</dialogue>
+    <dialogue joueur="True">Oui je sais, mais vous pourriez
+être plus précis ?</dialogue>
+    <dialogue joueur="False">Et bien vous vous trouvez sur la
+route entre la grande mine et Aubaric.</dialogue>
+    <dialogue joueur="True">Aubaric ? C'est quoi ?</dialogue>
+    <dialogue joueur="False">Vous devez venir de loin...
+C'est tout simplement le centre de Faymont, la région dans
+laquelle vous vous trouvez.</dialogue>
+    <dialogue joueur="True">Et c'est où ?</dialogue>
+    <dialogue joueur="False">Au nord ouest d'ici, pas très loin.</dialogue>
+    <dialogue joueur="True">Merci !</dialogue>
+    <dialogue joueur="False">Et faites attention aux monstres !
+Depuis peu ces horreurs ont envahi toute la region...</dialogue>
+    <dialogue joueur="True">Et vous savez d'où ils viennent ?</dialogue>
+    <dialogue joueur="False">Non... Mais faites attention !
+Et prenez cette potion au cas où il vous arriverait malheur.</dialogue>
+    <donner_objet type="5"/>
+    <dialogue joueur="True">Merci beaucoup !</dialogue>
+</actions>

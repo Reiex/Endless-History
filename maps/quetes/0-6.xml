@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">Bonjour, vous êtes bien le chef
+de la ville ?</dialogue>
+    <dialogue joueur="False">En effet, en quoi puis-je vous
+être utile ?</dialogue>
+    <dialogue joueur="True">Et bien j'aimerais savoir d'où
+viennent ces monstres qui envahissent actuellement la région.</dialogue>
+    <dialogue joueur="False">Du nord, mais toutes les routes
+sont barricadées, pour la sécurité de la ville et de ses
+environs.</dialogue>
+    <dialogue joueur="True">Il n'y a vraiment aucun moyen
+de passer ?</dialogue>
+    <dialogue joueur="False">Non, c'est trop dangereux, même
+avec ces barricades il reste des monstres qui trouvent
+des passages, et qui envahissent le sud de la ville...</dialogue>
+    <dialogue joueur="True">Et si je vous débarassais de
+ces monstres au sud, vous m'ouvririez le passage vers le nord ?</dialogue>
+    <dialogue joueur="False">Essayez si vous voulez, mais je ne
+suis pas responsable de ce qui pourrait vous arriver..</dialogue>
+</actions>

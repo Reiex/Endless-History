@@ -1,0 +1,5 @@
+0 = Homme maison normal
+1 = Damme maison normale
+2 = Vieillard
+3 = Garde
+4 = Homme maison normal 2

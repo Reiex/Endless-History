@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="False">Ah ! Vous vous êtes enfin réveillé !</dialogue>
+    <dialogue joueur="True">... Je suis où ? Vous êtes qui ?</dialogue>
+    <dialogue joueur="False">Vous êtes dans mon chalet. Il était très
+fréquenté par les montagnards avant que les monstres
+envahissent la région...</dialogue>
+    <dialogue joueur="False">Je vous ai trouvé évanoui en hypothermie
+dans le fossé à côté d'ici...</dialogue>
+    <dialogue joueur="False">Que faites vous ici ?</dialogue>
+    <dialogue joueur="True">J'essaye de trouver un passage vers le nord,
+justement pour découvrir d'où viennent ces monstes.</dialogue>
+    <dialogue joueur="False">Oui, il y en à un, mais il faut encore
+monter un peu...</dialogue>
+    <dialogue joueur="False">Ne sortez pas comme ça alors !</dialogue>
+    <deplacement x="2" y="0" joueur="False"/>
+    <deplacement x="0" y="2" joueur="False"/>
+    <dialogue joueur="False">Voici pour vous.</dialogue>
+    <donner_objet type="9"/>
+    <dialogue joueur="False">Bonne chance !</dialogue>
+</actions>

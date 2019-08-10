@@ -1,0 +1,58 @@
+<!-- DTD Permettant de faire un dossier XML qui représente une quête -->
+
+<!-- Arbre de base -->
+
+<!ELEMENT actions ( (deplacement | attaque_base | mort | immobilisation | dialogue | donner_objet | detruire | final)* )>
+
+
+<!-- ACTIONS A DECLENCHER -->
+
+
+<!-- Déplacement -->
+
+<!ELEMENT deplacement EMPTY>
+<!ATTLIST deplacement x (-2 | -1 | 0 | 1 | 2) #REQUIRED>
+<!ATTLIST deplacement y (-2 | -1 | 0 | 1 | 2) #REQUIRED>
+<!ATTLIST deplacement joueur (True | False) #REQUIRED>
+
+
+<!-- Attaque de base -->
+
+<!ELEMENT attaque_base EMPTY>
+<!ATTLIST attaque_base vitesse CDATA #REQUIRED>
+<!ATTLIST attaque_base joueur (True | False) #REQUIRED>
+
+
+<!-- Mort -->
+
+<!ELEMENT mort EMPTY>
+<!ATTLIST mort joueur (True | False) #REQUIRED>
+
+
+<!-- Immoblisation -->
+
+<!ELEMENT immobilisation EMPTY>
+<!ATTLIST immobilisation vitesse CDATA #REQUIRED>
+<!ATTLIST immobilisation joueur (True | False) #REQUIRED>
+
+
+<!-- Dialogue -->
+
+<!ELEMENT dialogue (#PCDATA)>
+<!ATTLIST dialogue joueur (True | False) #REQUIRED>
+
+
+<!-- Donner un objet au joueur -->
+
+<!ELEMENT donner_objet EMPTY>
+<!ATTLIST donner_objet type CDATA #REQUIRED>
+
+
+<!-- Destruction -->
+
+<!ELEMENT detruire EMPTY>
+
+
+<!-- Quête finale -->
+
+<!ELEMENT final EMPTY>

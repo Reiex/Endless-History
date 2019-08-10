@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">J'ai tué quelques monstres sur la plateau.</dialogue>
+    <dialogue joueur="True">Vous aviez tort, c'est à mourir d'ennui.</dialogue>
+    <dialogue joueur="False">Bien ! Vous avez peut être le niveau pour quelque
+chose de plus... costaud.</dialogue>
+    <dialogue joueur="False">Il y a un monstre au sud de la route qui nous empêche
+d'avancer.</dialogue>
+    <dialogue joueur="False">Il se trouve juste avant un fossé que la route traverse.</dialogue>
+    <dialogue joueur="False">Trouvez le, tuez le, vous aurez une récompense.</dialogue>
+</actions>

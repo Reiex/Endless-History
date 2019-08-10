@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">Encore une caverne !</dialogue>
+    <dialogue joueur="True">La récompense a intérêt à valoir le coup.</dialogue>
+    <dialogue joueur="True">La caverne se resserre,
+on doit être proche de la fin.</dialogue>
+</actions>

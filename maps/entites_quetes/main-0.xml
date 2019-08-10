@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE entites SYSTEM "dtd/maps.dtd">
+
+<entites>
+    <monstres>
+        <monstre x="4096" y="896" type="1">
+            <quete quete="2" histoire="1"/>
+        </monstre>
+        <monstre x="448" y="5696" type="2">
+            <quete quete="13" histoire="3"/>
+        </monstre>
+        <monstre x="2624" y="1152" type="0">
+            <quete quete="2" histoire="3"/>
+            <quete quete="3" histoire="3"/>
+            <quete quete="4" histoire="3"/>
+            <quete quete="5" histoire="3"/>
+            <quete quete="6" histoire="3"/>
+            <quete quete="7" histoire="3"/>
+            <quete quete="8" histoire="3"/>
+            <quete quete="9" histoire="3"/>
+            <quete quete="10" histoire="3"/>
+            <quete quete="11" histoire="3"/>
+        </monstre>
+        <monstre x="3328" y="1088" type="1">
+            <quete quete="2" histoire="3"/>
+            <quete quete="3" histoire="3"/>
+            <quete quete="4" histoire="3"/>
+            <quete quete="5" histoire="3"/>
+            <quete quete="6" histoire="3"/>
+            <quete quete="7" histoire="3"/>
+            <quete quete="8" histoire="3"/>
+            <quete quete="9" histoire="3"/>
+            <quete quete="10" histoire="3"/>
+            <quete quete="11" histoire="3"/>
+        </monstre>
+        <monstre x="2048" y="1344" type="0">
+            <quete quete="2" histoire="3"/>
+            <quete quete="3" histoire="3"/>
+            <quete quete="4" histoire="3"/>
+            <quete quete="5" histoire="3"/>
+            <quete quete="6" histoire="3"/>
+            <quete quete="7" histoire="3"/>
+            <quete quete="8" histoire="3"/>
+            <quete quete="9" histoire="3"/>
+            <quete quete="10" histoire="3"/>
+            <quete quete="11" histoire="3"/>
+        </monstre>
+        <monstre x="3008" y="1472" type="1">
+            <quete quete="2" histoire="3"/>
+            <quete quete="3" histoire="3"/>
+            <quete quete="4" histoire="3"/>
+            <quete quete="5" histoire="3"/>
+            <quete quete="6" histoire="3"/>
+            <quete quete="7" histoire="3"/>
+            <quete quete="8" histoire="3"/>
+            <quete quete="9" histoire="3"/>
+            <quete quete="10" histoire="3"/>
+            <quete quete="11" histoire="3"/>
+        </monstre>
+        <monstre x="2368" y="1728" type="0">
+            <quete quete="2" histoire="3"/>
+            <quete quete="3" histoire="3"/>
+            <quete quete="4" histoire="3"/>
+            <quete quete="5" histoire="3"/>
+            <quete quete="6" histoire="3"/>
+            <quete quete="7" histoire="3"/>
+            <quete quete="8" histoire="3"/>
+            <quete quete="9" histoire="3"/>
+            <quete quete="10" histoire="3"/>
+            <quete quete="11" histoire="3"/>
+        </monstre>
+        <monstre x="2880" y="1984" type="1">
+            <quete quete="2" histoire="3"/>
+            <quete quete="3" histoire="3"/>
+            <quete quete="4" histoire="3"/>
+            <quete quete="5" histoire="3"/>
+            <quete quete="6" histoire="3"/>
+            <quete quete="7" histoire="3"/>
+            <quete quete="8" histoire="3"/>
+            <quete quete="9" histoire="3"/>
+            <quete quete="10" histoire="3"/>
+            <quete quete="11" histoire="3"/>
+        </monstre>
+        <monstre x="3328" y="1984" type="0">
+            <quete quete="2" histoire="3"/>
+            <quete quete="3" histoire="3"/>
+            <quete quete="4" histoire="3"/>
+            <quete quete="5" histoire="3"/>
+            <quete quete="6" histoire="3"/>
+            <quete quete="7" histoire="3"/>
+            <quete quete="8" histoire="3"/>
+            <quete quete="9" histoire="3"/>
+            <quete quete="10" histoire="3"/>
+            <quete quete="11" histoire="3"/>
+        </monstre>
+        <monstre x="1856" y="2048" type="1">
+            <quete quete="2" histoire="3"/>
+            <quete quete="3" histoire="3"/>
+            <quete quete="4" histoire="3"/>
+            <quete quete="5" histoire="3"/>
+            <quete quete="6" histoire="3"/>
+            <quete quete="7" histoire="3"/>
+            <quete quete="8" histoire="3"/>
+            <quete quete="9" histoire="3"/>
+            <quete quete="10" histoire="3"/>
+            <quete quete="11" histoire="3"/>
+        </monstre>
+        <monstre x="2304" y="2176" type="0">
+            <quete quete="2" histoire="3"/>
+            <quete quete="3" histoire="3"/>
+            <quete quete="4" histoire="3"/>
+            <quete quete="5" histoire="3"/>
+            <quete quete="6" histoire="3"/>
+            <quete quete="7" histoire="3"/>
+            <quete quete="8" histoire="3"/>
+            <quete quete="9" histoire="3"/>
+            <quete quete="10" histoire="3"/>
+            <quete quete="11" histoire="3"/>
+        </monstre>
+        <monstre x="3008" y="2496" type="1">
+            <quete quete="2" histoire="3"/>
+            <quete quete="3" histoire="3"/>
+            <quete quete="4" histoire="3"/>
+            <quete quete="5" histoire="3"/>
+            <quete quete="6" histoire="3"/>
+            <quete quete="7" histoire="3"/>
+            <quete quete="8" histoire="3"/>
+            <quete quete="9" histoire="3"/>
+            <quete quete="10" histoire="3"/>
+            <quete quete="11" histoire="3"/>
+        </monstre>
+        <monstre x="1856" y="2560" type="0">
+            <quete quete="2" histoire="3"/>
+            <quete quete="3" histoire="3"/>
+            <quete quete="4" histoire="3"/>
+            <quete quete="5" histoire="3"/>
+            <quete quete="6" histoire="3"/>
+            <quete quete="7" histoire="3"/>
+            <quete quete="8" histoire="3"/>
+            <quete quete="9" histoire="3"/>
+            <quete quete="10" histoire="3"/>
+            <quete quete="11" histoire="3"/>
+        </monstre>
+        <monstre x="2368" y="2752" type="1">
+            <quete quete="2" histoire="3"/>
+            <quete quete="3" histoire="3"/>
+            <quete quete="4" histoire="3"/>
+            <quete quete="5" histoire="3"/>
+            <quete quete="6" histoire="3"/>
+            <quete quete="7" histoire="3"/>
+            <quete quete="8" histoire="3"/>
+            <quete quete="9" histoire="3"/>
+            <quete quete="10" histoire="3"/>
+            <quete quete="11" histoire="3"/>
+        </monstre>
+        <monstre x="2816" y="3136" type="0">
+            <quete quete="2" histoire="3"/>
+            <quete quete="3" histoire="3"/>
+            <quete quete="4" histoire="3"/>
+            <quete quete="5" histoire="3"/>
+            <quete quete="6" histoire="3"/>
+            <quete quete="7" histoire="3"/>
+            <quete quete="8" histoire="3"/>
+            <quete quete="9" histoire="3"/>
+            <quete quete="10" histoire="3"/>
+            <quete quete="11" histoire="3"/>
+        </monstre>
+        <monstre x="3264" y="3264" type="1">
+            <quete quete="2" histoire="3"/>
+            <quete quete="3" histoire="3"/>
+            <quete quete="4" histoire="3"/>
+            <quete quete="5" histoire="3"/>
+            <quete quete="6" histoire="3"/>
+            <quete quete="7" histoire="3"/>
+            <quete quete="8" histoire="3"/>
+            <quete quete="9" histoire="3"/>
+            <quete quete="10" histoire="3"/>
+            <quete quete="11" histoire="3"/>
+        </monstre>
+        <monstre x="2240" y="3456" type="0">
+            <quete quete="2" histoire="3"/>
+            <quete quete="3" histoire="3"/>
+            <quete quete="4" histoire="3"/>
+            <quete quete="5" histoire="3"/>
+            <quete quete="6" histoire="3"/>
+            <quete quete="7" histoire="3"/>
+            <quete quete="8" histoire="3"/>
+            <quete quete="9" histoire="3"/>
+            <quete quete="10" histoire="3"/>
+            <quete quete="11" histoire="3"/>
+        </monstre>
+        <monstre x="3200" y="3776" type="1">
+            <quete quete="2" histoire="3"/>
+            <quete quete="3" histoire="3"/>
+            <quete quete="4" histoire="3"/>
+            <quete quete="5" histoire="3"/>
+            <quete quete="6" histoire="3"/>
+            <quete quete="7" histoire="3"/>
+            <quete quete="8" histoire="3"/>
+            <quete quete="9" histoire="3"/>
+            <quete quete="10" histoire="3"/>
+            <quete quete="11" histoire="3"/>
+        </monstre>
+        <monstre x="2624" y="3840" type="0">
+            <quete quete="2" histoire="3"/>
+            <quete quete="3" histoire="3"/>
+            <quete quete="4" histoire="3"/>
+            <quete quete="5" histoire="3"/>
+            <quete quete="6" histoire="3"/>
+            <quete quete="7" histoire="3"/>
+            <quete quete="8" histoire="3"/>
+            <quete quete="9" histoire="3"/>
+            <quete quete="10" histoire="3"/>
+            <quete quete="11" histoire="3"/>
+        </monstre>
+    </monstres>
+    <pnjs/>
+    <meubles/>
+    <places>
+        <place x="12224" y="6144" w="64" h="64">
+            <quete quete="0" histoire="0"/>
+        </place>
+        <place x="12160" y="4864" w="512" h="64">
+            <quete quete="1" histoire="0"/>
+        </place>
+        <place x="12224" y="4608" w="64" h="64">
+            <quete quete="3" histoire="0"/>
+        </place>
+        <place x="256" y="256" w="64" h="128">
+            <quete quete="4" histoire="0"/>
+        </place>
+        <place x="4608" y="2304" w="384" h="384">
+            <quete quete="1" histoire="1"/>
+        </place>
+        <place x="1664" y="896" w="64" h="64">
+            <quete quete="1" histoire="3"/>
+        </place>
+    </places>
+</entites>

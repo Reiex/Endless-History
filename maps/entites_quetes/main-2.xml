@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE entites SYSTEM "dtd/maps.dtd">
+
+<entites>
+    <monstres>
+        <!-- MONSTRES DE LA QUÊTE DU VIEILLARD -->
+        <monstre x="2944" y="4992" type="0">
+            <quete quete="4" histoire="4"/>
+            <quete quete="5" histoire="4"/>
+            <quete quete="6" histoire="4"/>
+            <quete quete="7" histoire="4"/>
+            <quete quete="8" histoire="4"/>
+        </monstre>
+        <monstre x="2496" y="4544" type="0">
+            <quete quete="4" histoire="4"/>
+            <quete quete="5" histoire="4"/>
+            <quete quete="6" histoire="4"/>
+            <quete quete="7" histoire="4"/>
+            <quete quete="8" histoire="4"/>
+        </monstre>
+        <monstre x="1984" y="4544" type="0">
+            <quete quete="4" histoire="4"/>
+            <quete quete="5" histoire="4"/>
+            <quete quete="6" histoire="4"/>
+            <quete quete="7" histoire="4"/>
+            <quete quete="8" histoire="4"/>
+        </monstre>
+        <monstre x="1600" y="5248" type="0">
+            <quete quete="4" histoire="4"/>
+            <quete quete="5" histoire="4"/>
+            <quete quete="6" histoire="4"/>
+            <quete quete="7" histoire="4"/>
+            <quete quete="8" histoire="4"/>
+        </monstre>
+        <monstre x="2112" y="5824" type="0">
+            <quete quete="4" histoire="4"/>
+            <quete quete="5" histoire="4"/>
+            <quete quete="6" histoire="4"/>
+            <quete quete="7" histoire="4"/>
+            <quete quete="8" histoire="4"/>
+        </monstre>
+        <monstre x="2944" y="4608" type="1">
+            <quete quete="4" histoire="4"/>
+            <quete quete="5" histoire="4"/>
+            <quete quete="6" histoire="4"/>
+            <quete quete="7" histoire="4"/>
+            <quete quete="8" histoire="4"/>
+        </monstre>
+        <monstre x="2944" y="4288" type="1">
+            <quete quete="4" histoire="4"/>
+            <quete quete="5" histoire="4"/>
+            <quete quete="6" histoire="4"/>
+            <quete quete="7" histoire="4"/>
+            <quete quete="8" histoire="4"/>
+        </monstre>
+        <monstre x="2304" y="4352" type="1">
+            <quete quete="4" histoire="4"/>
+            <quete quete="5" histoire="4"/>
+            <quete quete="6" histoire="4"/>
+            <quete quete="7" histoire="4"/>
+            <quete quete="8" histoire="4"/>
+        </monstre>
+        <monstre x="1664" y="4864" type="1">
+            <quete quete="4" histoire="4"/>
+            <quete quete="5" histoire="4"/>
+            <quete quete="6" histoire="4"/>
+            <quete quete="7" histoire="4"/>
+            <quete quete="8" histoire="4"/>
+        </monstre>
+        <monstre x="1856" y="5696" type="1">
+            <quete quete="4" histoire="4"/>
+            <quete quete="5" histoire="4"/>
+            <quete quete="6" histoire="4"/>
+            <quete quete="7" histoire="4"/>
+            <quete quete="8" histoire="4"/>
+        </monstre>
+        <monstre x="2368" y="5760" type="1">
+            <quete quete="4" histoire="4"/>
+            <quete quete="5" histoire="4"/>
+            <quete quete="6" histoire="4"/>
+            <quete quete="7" histoire="4"/>
+            <quete quete="8" histoire="4"/>
+        </monstre>
+        <!-- MONSTRES DE LA QUÊTE DE L'HOMME ISOLE-->
+        <monstre x="9664" y="4416" type="1">
+            <quete quete="5" histoire="6"/>
+            <quete quete="6" histoire="6"/>
+            <quete quete="7" histoire="6"/>
+            <quete quete="8" histoire="6"/>
+            <quete quete="9" histoire="6"/>
+        </monstre>
+        <monstre x="10432" y="4288" type="1">
+            <quete quete="5" histoire="6"/>
+            <quete quete="6" histoire="6"/>
+            <quete quete="7" histoire="6"/>
+            <quete quete="8" histoire="6"/>
+            <quete quete="9" histoire="6"/>
+        </monstre>
+        <monstre x="10752" y="3904" type="1">
+            <quete quete="5" histoire="6"/>
+            <quete quete="6" histoire="6"/>
+            <quete quete="7" histoire="6"/>
+            <quete quete="8" histoire="6"/>
+            <quete quete="9" histoire="6"/>
+        </monstre>
+        <monstre x="11904" y="5184" type="1">
+            <quete quete="5" histoire="6"/>
+            <quete quete="6" histoire="6"/>
+            <quete quete="7" histoire="6"/>
+            <quete quete="8" histoire="6"/>
+            <quete quete="9" histoire="6"/>
+        </monstre>
+        <monstre x="9984" y="4224" type="0">
+            <quete quete="5" histoire="6"/>
+            <quete quete="6" histoire="6"/>
+            <quete quete="7" histoire="6"/>
+            <quete quete="8" histoire="6"/>
+            <quete quete="9" histoire="6"/>
+        </monstre>
+        <monstre x="10176" y="4544" type="0">
+            <quete quete="5" histoire="6"/>
+            <quete quete="6" histoire="6"/>
+            <quete quete="7" histoire="6"/>
+            <quete quete="8" histoire="6"/>
+            <quete quete="9" histoire="6"/>
+        </monstre>
+        <monstre x="10368" y="3968" type="0">
+            <quete quete="5" histoire="6"/>
+            <quete quete="6" histoire="6"/>
+            <quete quete="7" histoire="6"/>
+            <quete quete="8" histoire="6"/>
+            <quete quete="9" histoire="6"/>
+        </monstre>
+        <monstre x="11200" y="3968" type="0">
+            <quete quete="5" histoire="6"/>
+            <quete quete="6" histoire="6"/>
+            <quete quete="7" histoire="6"/>
+            <quete quete="8" histoire="6"/>
+            <quete quete="9" histoire="6"/>
+        </monstre>
+        <monstre x="10688" y="4608" type="0">
+            <quete quete="5" histoire="6"/>
+            <quete quete="6" histoire="6"/>
+            <quete quete="7" histoire="6"/>
+            <quete quete="8" histoire="6"/>
+            <quete quete="9" histoire="6"/>
+        </monstre>
+        <monstre x="11392" y="4992" type="0">
+            <quete quete="5" histoire="6"/>
+            <quete quete="6" histoire="6"/>
+            <quete quete="7" histoire="6"/>
+            <quete quete="8" histoire="6"/>
+            <quete quete="9" histoire="6"/>
+        </monstre>
+    </monstres>
+    <pnjs>
+        <pnj x="2880" y="5440" type="2">
+            <quete quete="0" histoire="4"/>
+            <quete quete="3" histoire="4"/>
+            <quete quete="9" histoire="4"/>
+            <quete quete="12" histoire="4"/>
+        </pnj>
+    </pnjs>
+    <meubles>
+        <meuble x="7552" y="2944" type="9">
+            <quete quete="19" histoire="0"/>
+        </meuble>
+    </meubles>
+    <places>
+        <place x="384" y="6080" w="64" h="64">
+            <quete quete="15" histoire="0"/>
+        </place>
+        <place x="704" y="4224" w="64" h="64">
+            <quete quete="16" histoire="0"/>
+        </place>
+        <place x="4608" y="3648" w="64" h="64">
+            <quete quete="17" histoire="0"/>
+        </place>
+        <place x="7104" y="2752" w="384" h="512">
+            <quete quete="18" histoire="0"/>
+        </place>
+        <place x="10944" y="2944" w="64" h="64">
+            <quete quete="20" histoire="0"/>
+        </place>
+        <place x="12160" y="768" w="448" h="64">
+            <quete quete="21" histoire="0"/>
+        </place>
+        <place x="11584" y="1088" w="64" h="64">
+            <quete quete="24" histoire="0"/>
+        </place>
+        <place x="3584" y="4736" w="64" h="64">
+            <quete quete="2" histoire="4"/>
+        </place>
+        <place x="11072" y="4544" w="64" h="64">
+            <quete quete="1" histoire="6"/>
+        </place>
+        <place x="6144" y="6080" w="64" h="64">
+            <quete quete="2" histoire="6"/>
+        </place>
+    </places>
+</entites>

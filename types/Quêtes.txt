@@ -1,0 +1,178 @@
+Partie I:
+
+	- Equipement de base
+	- Potion de vie x2
+	- Parchemin d'attaque x1
+
+	0: QUÊTE PRINCIPALE
+		
+		- 0: Cinématique d'introduction du jeu
+		- 1: Voir la maison du mineur et dire d'y entrer
+		- 2: Parler au mineur (Présentation de l'univers)
+			- Potion de vie
+
+		- 3: Monologue expliquant le but actuel du joueur: aller à Aubaric
+		- 4: Confirmation de la sortie de la region et de l'entrée dans Aubaric
+
+		- 5: Confirmation de l'entrée dans Aubaric et nouveau but: Trouver la maison du chef de la ville
+		- 6: Explications du chef quant aux barricades au nord de la ville et marché avec le chef pour ouvrir un passage vers le nord
+		- 7: Le joueur tue 1 monstre
+		- 8: Le joueur tue 2 monstre
+		- 9: Le joueur tue 3 monstre
+		- 10: Le joueur tue 4 monstre
+		- 11: Le joueur tue 5 monstre, et fait un petit monologue pour dire que ça devrait être suffisant
+		- 12: Explications du chef de la ville quant à la provenance des monstres, ouverture d'un passage vers le nord
+			- Casque de cuir
+*		- 13: Monologue expliquant le but et les pensées actuelles du joueur: C'est une histoire de merde, mais c'est son boulot
+		- 14: Ouverture du passage vers le nord, qui se referme derriere le joueur (il ne peut donc plus aller dans Aubaric)
+
+*		- 15: Cinématique "transition1" puis monologue indiquant qu'il faut chercher à traverser les montagnes
+
+	1: QUÊTE DU MONSTRE TERRORISEUR DE VOYAGEURS ENTRE LE SPAWN ET AUBARIC
+
+		- 0: Parler à l'aubergiste
+		- 1: Confirmation de l'emplacement du monstre
+		- 2: Monstre tué
+		- 3: Retour et rapport à l'aubergiste, qui donne une récompense
+		- 4: Chercher la récompense dans le coffre
+			- Bottes
+
+	2: QUÊTE DU MONSTRE INFILTRE D'AUBARIC
+
+		- 0: Trouver le cadavre dans la maison
+		- 1: Monologue qui réprimande le joueur pour le faire retourner inspecter la maison
+		- 2: Retourner inspecter la maison du cadavre et trouver une lettre suspecte
+		- 3: Demander au voisin qui est le suspect et où il se trouve
+		- 4: Trouver l'accusé, le confronter et le faire fuire
+		- 5: Arriver dans la dimension des monstres
+		- 6: Tuer le monstre qui se faisait passer pour le suspect et récupérer ses affaires
+			- Tunique
+			- Potion de vie
+			- Parchemin d'attaque
+
+	3: QUÊTE DU PLATEAU DU GOULOT
+
+		- 0: Se faire aborder par le garde qui demande de l'aide
+		- 1: Annoncer qu'il faut tuer une dizaine de monstre
+		- 2: Le joueur tue 1 monstre
+		- 3: Le joueur tue 2 monstre
+		- 4: Le joueur tue 3 monstre
+		- 5: Le joueur tue 4 monstre
+		- 6: Le joueur tue 5 monstre
+		- 7: Le joueur tue 6 monstre
+		- 8: Le joueur tue 7 monstre
+		- 9: Le joueur tue 8 monstre
+		- 10: Le joueur tue 9 monstre
+		- 11: Le joueur tue 10 monstre et préviens que ça suffit
+*		- 12: Le garde parle d'un monstre au sud-ouest d'Aubaric qu'il faudrait éliminer
+*		- 13: Le joueur tue ce monstre
+		- 14: Le garde récompense le joueur
+			- Pantalon
+			- Potion de vie
+
+
+
+Partie II:
+
+	- Equipement de montagnard
+	- Parchemin d'attaque de feu
+	- Parchemin d'attaque x1
+	- Parchemin d'explosions x1
+	- Potion de vie x1
+	
+	0: QUÊTE PRINCIPALE
+		
+		- 16: Remarquer qu'il fait plus frais, c'est normal, on est en montagnes
+*		- 17: Remarquer qu'il commencer à faire carrément froid
+		- 18: Se retrouver bloqué au bloc de glace
+		
+		- 19: Faire fondre le bloc de glace avec le parchemin d'attaque de feu obtenu avec les quêtes secondaires
+*		- 20: Remarquer qu'il fait beaucoup trop froid
+		- 21: "Je.. ne peux... plus." puis mort du joueur
+		- 22: Cinématique "transition2" et se réveiller à l'étage de l'auberge
+		- 23: Déscendre et se faire expliquer par l'aubergiste qu'il y a un passage encore plus en altitude, au col.
+			- Veste chaude de montagnard
+		
+		- 24: Expliquer qu'il faut aller au col une fois dehors
+		- 25: Entrer dans la caverne qui permet de passer au delà de la montagne
+		- 26: Faire remarquer que la grotte se resserre
+
+	4: QUÊTE DU GRAND-PERE PERDU EN MISSION
+
+		- 0: Trouver le grand-père au lac
+		- 1: Aller parler à sa fille qui donne la mission
+*		- 2: Faire un petit commentaire sur le fait que c'est nul comme mission
+		- 3: Retourner au lac parler au grand-père
+		- 4: Le joueur tue 1 monstre
+		- 5: Le joueur tue 2 monstre
+		- 6: Le joueur tue 3 monstre
+		- 7: Le joueur tue 4 monstre
+		- 8: Le joueur tue 5 monstre et signale que ça suffit
+		- 9: Reparler au grand père qui nous récompense
+			- Chaussures de marche de montagnard
+
+		- 10: Rentrer dans la grotte
+		- 11: Vaincre le gros monstre
+			- Parchemin d'explosions
+		- 12: Retourner voir le grand-père
+			- Parchemin d'attaque de feu
+
+	5: QUÊTE DE LA GROTTE GLACEE
+
+		- 0: Entrer dans la grotte
+		- 1: Entrer dans la sous-cave
+*		- 2: Trouver le coffre
+			- Bonnet de montagnard
+			- Potion de vie
+
+	6: QUÊTE DE L'EVACUATION DU CHALET
+
+		- 0: Parler à l'homme
+		- 1: Sortir de sa maison en indiquant où chercher
+		- 2: Remarquer que le chemin mène bien quelque part mais qu'il y a des gardes
+		- 3: Parler aux gardes qui refusent l'accès au chemin
+		- 4: Revenir parler à l'homme qui envoie le joueur au moins tuer quelques monstres
+			- Parchemin d'attaque
+		- 5: Le joueur tue 1 monstre
+		- 6: Le joueur tue 2 monstre
+		- 7: Le joueur tue 3 monstre
+		- 8: Le joueur tue 4 monstre
+		- 9: Le joueur tue 5 monstre et signale que ça suffit
+		- 10: Parler à l'homme qui remercie le joueur
+			- Pantalon ample de montagnard
+
+
+
+Partie III:
+	
+	0: QUÊTE PRINCIPALE
+
+		- 27: Arriver de l'autre côté de la montagne et expliquer qu'on doit trouver Capires
+*		- 28: Trouver la cabane du bucheron et suggérer d'y entrer
+		- 29: Se faire expliquer par le bucheron où se trouve Capires
+		- 30: Confirmer que le chemin emprunté est le bon
+		- 31: Expliquer qu'on est obligé d'emprunter le passage sous-terrain
+		- 32: Sortir du passage sous-terrain et expliquer que Capires ne doit plus être loin
+*		- 33: Expliquer en voyant des gardes qu'il faut finir les quêtes secondaires
+**		- 34: Se faire rembarrer par les gardes et se barrer
+
+	7: QUÊTE DE LA GEMME TROP PROFONDE
+
+*		- 0: Découvrir l'entrée de la caverne
+		- 1: Se demander à quel point on déscend profondément
+		- 2: Faire remarquer qu'il commence même à faire chaud
+		- 3: Voir des gemmes
+		- 4: Se demander s'il faudrait pas rebrousser chemin
+		- 5: Trouver la gemme
+*		- 6: Ressortir et se dire que ça ne servait pas à grand chose
+
+	8: QUÊTE DU VAL PERDU
+	
+		- 0: Arriver dans la dimension des monstres et s'interroger
+		- 1: Expliquer qu'il y a surement quelque chose d'interessant au bout
+		- 2: Sortir de la dimension des monstres après un long trajet
+		- 3: Faire remarquer que le chemin est long
+		- 4: Arriver dans le val et déclamer "Le dormeur du val"
+		- 5: Entrer dans la maison et trouver la lettre
+		- 6: Ressortir en plein attaque des monstres, il faut s'echapper
+*		- 7: Petit monologue, le joueur s'en est sorti... sans aucune récompense

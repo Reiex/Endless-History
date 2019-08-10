@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="False">Alors ?</dialogue>
+    <dialogue joueur="True">Les chemins qui mènent vers la
+zone sécurisée sont gardés et il est impossible de passer.</dialogue>
+    <dialogue joueur="False">Ah... Je vais quand même vous
+dédommager pour votre aide.</dialogue>
+    <donner_objet type="6"/>
+    <dialogue joueur="False">Et puisque vous ne semblez pas
+avoir de problème avec les monstres...</dialogue>
+    <dialogue joueur="False">Est ce que vous pourriez me
+débarasser des quelques uns qui trainent autour de ma maison
+s'il vous plaît ?</dialogue>
+    <dialogue joueur="True">Pas de problème.</dialogue>
+</actions>

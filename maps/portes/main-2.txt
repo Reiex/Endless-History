@@ -1,0 +1,6 @@
+caverne-2-2-0 384 1152
+caverne-2-0-0 896 4352
+maison-2-0 384 192
+maison-2-1 320 256
+maison-2-2-0 64 192
+caverne-2-1 640 832

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">Aubaric ne doit plus être loin.</dialogue>
+    <dialogue joueur="True">J'espere pouvoir en apprendre d'avantage
+sur cette région, et surtout sur ces monstres...</dialogue>
+</actions>

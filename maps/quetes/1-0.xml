@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="False">Bonjour !
+Vous voulez un lit pour la nuit ?</dialogue>
+    <dialogue joueur="True">Non.</dialogue>
+    <dialogue joueur="False">Ah je sais, depuis que ces monstres
+occupent la région, personne ne vient plus dormir ici.</dialogue>
+    <dialogue joueur="False">En fait c'est surtout l'un
+d'eux qui pose problème.</dialogue>
+    <dialogue joueur="False">Il doit avoir une forme d'intelligence
+car il se cache dans un bosquet un peu à l'ouest
+et terrorise tout les voyageurs qui passent sur le
+chemin entre ici et Aubaric.</dialogue>
+    <dialogue joueur="True">Si vous voulez, je peux vous en débarasser.</dialogue>
+    <dialogue joueur="False">Ce serait merveilleux !
+Mais restez prudent...</dialogue>
+</actions>

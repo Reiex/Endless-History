@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+
+    <dialogue joueur="True">"C'est un trou de verdure où chante une rivière,</dialogue>
+
+    <deplacement x="1" y="0" joueur="True"/>
+    <deplacement x="1" y="0" joueur="True"/>
+    <deplacement x="1" y="0" joueur="True"/>
+
+    <dialogue joueur="True">accrochant follement aux herbes des haillons d'argent;</dialogue>
+
+    <deplacement x="-1" y="0" joueur="True"/>
+    <deplacement x="-1" y="0" joueur="True"/>
+    <deplacement x="-1" y="0" joueur="True"/>
+
+    <deplacement x="0" y="-1" joueur="True"/>
+
+    <deplacement x="-1" y="0" joueur="True"/>
+    <deplacement x="-1" y="0" joueur="True"/>
+    <deplacement x="-1" y="0" joueur="True"/>
+
+    <dialogue joueur="True">où le soleil, de la montagne fière, luit:</dialogue>
+
+    <deplacement x="1" y="0" joueur="True"/>
+
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+
+    <dialogue joueur="True">c'est un petit val qui mousse de rayons.</dialogue>
+
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+
+    <deplacement x="1" y="0" joueur="True"/>
+    <deplacement x="1" y="0" joueur="True"/>
+    <deplacement x="1" y="0" joueur="True"/>
+    <deplacement x="1" y="0" joueur="True"/>
+    <deplacement x="1" y="0" joueur="True"/>
+    <deplacement x="1" y="0" joueur="True"/>
+    <deplacement x="1" y="0" joueur="True"/>
+    <deplacement x="1" y="0" joueur="True"/>
+    <deplacement x="1" y="0" joueur="True"/>
+    <deplacement x="1" y="0" joueur="True"/>
+
+    <deplacement x="0" y="-2" joueur="True"/>
+
+    <dialogue joueur="True">Un soldat jeune, bouche ouverte, tête nue,
+et la nuque baignant dans le frais cresson bleu, dort;</dialogue>
+    <dialogue joueur="True">il est étendu dans l'herbe, sous la nue,
+pâle dans son lit vert où la lumière pleut.</dialogue>
+
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+
+    <deplacement x="1" y="0" joueur="True"/>
+    <deplacement x="1" y="0" joueur="True"/>
+    <deplacement x="1" y="0" joueur="True"/>
+
+    <deplacement x="0" y="-1" joueur="True"/>
+
+    <deplacement x="1" y="0" joueur="True"/>
+
+    <deplacement x="0" y="2" joueur="True"/>
+
+    <dialogue joueur="True">Les pieds dans les glaïeuls, il dort.</dialogue>
+    <dialogue joueur="True">Souriant comme sourirait un enfant malade,
+il fait un somme:</dialogue>
+    <dialogue joueur="True">Nature, berce-le chaudement : il a froid.</dialogue>
+
+    <deplacement x="-1" y="0" joueur="True"/>
+
+    <deplacement x="0" y="1" joueur="True"/>
+    <deplacement x="0" y="1" joueur="True"/>
+
+    <deplacement x="1" y="0" joueur="True"/>
+
+    <deplacement x="0" y="-2" joueur="True"/>
+
+    <dialogue joueur="True">Les parfums ne font pas frissonner sa narine;</dialogue>
+    <dialogue joueur="True">Il dort dans le soleil,
+la main sur sa poitrine, Tranquille.</dialogue>
+    <dialogue joueur="True">Il a...</dialogue>
+    <dialogue joueur="True">deux trous rouges...</dialogue>
+    <dialogue joueur="True">au côté droit."</dialogue>
+</actions>

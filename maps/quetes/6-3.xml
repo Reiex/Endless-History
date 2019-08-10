@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="False">Halte ! Que voulez vous ?!</dialogue>
+    <dialogue joueur="True">Savoir s'il est possible de rejoindre la
+zone sécurisée.</dialogue>
+    <dialogue joueur="False">Personne ne rentre, ce sont les ordres.</dialogue>
+    <dialogue joueur="True">Très bien...</dialogue>
+</actions>

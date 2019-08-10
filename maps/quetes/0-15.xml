@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+
+    <dialogue joueur="True">C'est parti...</dialogue>
+    <dialogue joueur="True">Je suppose que l'aventure commence réellement
+maintenant.</dialogue>
+
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+
+    <dialogue joueur="True">Je suis un peu déçu quand même...</dialogue>
+
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+
+    <dialogue joueur="True">Ce jeu m'a pas l'air passionnant.</dialogue>
+
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+
+    <dialogue joueur="True">Bon, j'ai plus qu'a trouve un passage
+à travers ces montagnes...</dialogue>
+
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+
+</actions>

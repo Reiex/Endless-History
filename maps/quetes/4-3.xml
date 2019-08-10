@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">Voici votre épée.</dialogue>
+    <dialogue joueur="True">Tant que je suis là,
+vous avez besoin d'aide ?</dialogue>
+    <dialogue joueur="False">Pour tout dire... Oui.</dialogue>
+    <dialogue joueur="False">Je ne peux pas l'admettre devant ma fille,
+mais je commence à me faire vieux.</dialogue>
+    <dialogue joueur="False">Et je ne suis pas sûr de pouvoir
+combattre ces monstres sans me blesser.</dialogue>
+    <dialogue joueur="False">Pourriez-vous en tuer quelques-uns pour moi ?</dialogue>
+</actions>

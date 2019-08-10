@@ -1,0 +1,44 @@
+<!-- DTD Permettant de faire un dossier XML qui signale toutes les entites faisant partit d'une quête -->
+
+<!-- Arbre de base -->
+
+<!ELEMENT entites (monstres, pnjs, meubles, places)>
+<!ELEMENT monstres (monstre*)>
+<!ELEMENT pnjs (pnj*)>
+<!ELEMENT meubles (meuble*)>
+<!ELEMENT places (place*)>
+
+<!-- Monstre -->
+
+<!ELEMENT monstre (quete+)>
+<!ATTLIST monstre x CDATA #REQUIRED>
+<!ATTLIST monstre y CDATA #REQUIRED>
+<!ATTLIST monstre type CDATA #REQUIRED>
+
+<!-- PNJ -->
+
+<!ELEMENT pnj (quete+)>
+<!ATTLIST pnj x CDATA #REQUIRED>
+<!ATTLIST pnj y CDATA #REQUIRED>
+<!ATTLIST pnj type CDATA #REQUIRED>
+
+<!-- Meuble -->
+
+<!ELEMENT meuble (quete+)>
+<!ATTLIST meuble x CDATA #REQUIRED>
+<!ATTLIST meuble y CDATA #REQUIRED>
+<!ATTLIST meuble type CDATA #REQUIRED>
+
+<!-- Place -->
+
+<!ELEMENT place (quete+)>
+<!ATTLIST place x CDATA #REQUIRED>
+<!ATTLIST place y CDATA #REQUIRED>
+<!ATTLIST place w CDATA #REQUIRED>
+<!ATTLIST place h CDATA #REQUIRED>
+
+<!-- Balises permettant de décrire une entite -->
+
+<!ELEMENT quete EMPTY>
+<!ATTLIST quete quete CDATA #REQUIRED>
+<!ATTLIST quete histoire CDATA #REQUIRED>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">Un bloc de glace m'empêche de passer...</dialogue>
+    <dialogue joueur="True">Une quête secondaire me donnera sûrement
+un quelconque objet pour le briser.</dialogue>
+</actions>

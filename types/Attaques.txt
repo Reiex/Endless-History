@@ -1,0 +1,5 @@
+0 = Attaque de monstre à distance immobile
+1 = Attaque parchemin joueur
+2 = Attaque de feu
+3 = Explosions du monstre à distance bleu
+4 = Explosion parchemin joueur

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE entites SYSTEM "dtd/maps.dtd">
+
+<entites>
+    <monstres/>
+    <pnjs>
+        <pnj x="64" y="128" type="4">
+            <quete quete="4" histoire="2"/>
+        </pnj>
+    </pnjs>
+    <meubles/>
+    <places/>
+</entites>

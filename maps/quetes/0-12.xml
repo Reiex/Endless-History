@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">Voilà, je vous ai débarrassé de ces monstres
+au sud. Maintenant dites-moi d'où viennent ces monstres et comment
+aller vers le nord !</dialogue>
+    <dialogue joueur="False">Très bien.</dialogue>
+    <dialogue joueur="False">Les monstres que vous voyez ont commencé
+à apparaître il y a quelques mois environ.</dialogue>
+    <dialogue joueur="False">La région de Faymont est une très
+grande région composée de 4 villes: Aubaric, Minemart,
+Capires, et Fronfay</dialogue>
+    <dialogue joueur="False">Aubaric est maintenant la seule ville qui
+se trouve dans une zone sécurisée. Enfin à notre connaissance...</dialogue>
+    <dialogue joueur="False">Minemart est une grande ville minière un peu
+au nord d'ici, c'est elle qui est reliée à Aubaric par la route
+principale, mais cette route est maintenant barricadée.</dialogue>
+    <dialogue joueur="False">Capires était l'ancienne capitale de Faymont,
+une très grande ville qui se trouve derrière les montagnes, au nord-est.</dialogue>
+    <dialogue joueur="False">Faymont, enfin, n'était qu'une petite ville
+très au nord.</dialogue>
+    <dialogue joueur="True">Et ces villes existent encore ?</dialogue>
+    <dialogue joueur="False">On ne sait pas. Vous pourrez allez le
+voir par vous même.</dialogue>
+    <dialogue joueur="False">Il y a un petit chemin vers les montagnes
+au nord-est de la ville. Vous pourrez l'emprunter, il y a probablement
+moins de monstres dans les montagnes que sur les routes.</dialogue>
+    <dialogue joueur="False">Par contre, celui qui garde cette route
+vous laissera sortir, mais pas revenir. Assurez vous d'être
+prêt avant de partir...</dialogue>
+    <dialogue joueur="True">Merci.</dialogue>
+    <dialogue joueur="False">Oh ! Et avant de partir.
+Voilà de quoi vous remercier pour nous avoir débarrassé de ces monstres.</dialogue>
+    <donner_objet type="1"/>
+</actions>

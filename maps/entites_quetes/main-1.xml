@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE entites SYSTEM "dtd/maps.dtd">
+
+<entites>
+    <monstres>
+        <monstre x="256" y="3328" type="0">
+            <quete quete="7" histoire="0"/>
+            <quete quete="8" histoire="0"/>
+            <quete quete="9" histoire="0"/>
+            <quete quete="10" histoire="0"/>
+            <quete quete="11" histoire="0"/>
+        </monstre>
+        <monstre x="1024" y="3264" type="1">
+            <quete quete="7" histoire="0"/>
+            <quete quete="8" histoire="0"/>
+            <quete quete="9" histoire="0"/>
+            <quete quete="10" histoire="0"/>
+            <quete quete="11" histoire="0"/>
+        </monstre>
+        <monstre x="1600" y="3520" type="1">
+            <quete quete="7" histoire="0"/>
+            <quete quete="8" histoire="0"/>
+            <quete quete="9" histoire="0"/>
+            <quete quete="10" histoire="0"/>
+            <quete quete="11" histoire="0"/>
+        </monstre>
+        <monstre x="2560" y="3328" type="0">
+            <quete quete="7" histoire="0"/>
+            <quete quete="8" histoire="0"/>
+            <quete quete="9" histoire="0"/>
+            <quete quete="10" histoire="0"/>
+            <quete quete="11" histoire="0"/>
+        </monstre>
+        <monstre x="3328" y="3584" type="1">
+            <quete quete="7" histoire="0"/>
+            <quete quete="8" histoire="0"/>
+            <quete quete="9" histoire="0"/>
+            <quete quete="10" histoire="0"/>
+            <quete quete="11" histoire="0"/>
+        </monstre>
+        <monstre x="4224" y="3456" type="1">
+            <quete quete="7" histoire="0"/>
+            <quete quete="8" histoire="0"/>
+            <quete quete="9" histoire="0"/>
+            <quete quete="10" histoire="0"/>
+            <quete quete="11" histoire="0"/>
+        </monstre>
+    </monstres>
+    <pnjs>
+        <pnj x="3712" y="128" type="3">
+            <quete quete="14" histoire="0"/>
+        </pnj>
+    </pnjs>
+    <meubles/>
+    <places>
+        <place x="4544" y="2112" w="64" h="128">
+            <quete quete="5" histoire="0"/>
+        </place>
+        <place x="2048" y="1728" w="64" h="64">
+            <quete quete="13" histoire="0"/>
+        </place>
+        <place x="1216" y="2560" w="64" h="64">
+            <quete quete="1" histoire="2"/>
+        </place>
+    </places>
+</entites>

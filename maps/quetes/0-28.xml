@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">Oh ! Une cabane de bûcheron !</dialogue>
+    <dialogue joueur="True">C'est évident, il y aura un PNJ pour
+m'expliquer où aller...</dialogue>
+    <dialogue joueur="True">Allez, on va quand même jouer le jeu !</dialogue>
+</actions>

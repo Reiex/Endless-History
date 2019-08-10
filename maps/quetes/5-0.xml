@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">Il fait froid dans cette grotte...</dialogue>
+    <dialogue joueur="True">... Mais quand même beaucoup moins froid qu'à l'exterieur !</dialogue>
+    <dialogue joueur="True">Voyons ce qu'on peut trouver.</dialogue>
+</actions>

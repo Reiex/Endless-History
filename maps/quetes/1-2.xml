@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">Pas si terrifiant finalement...</dialogue>
+    <dialogue joueur="True">Bon, maintenant il faut retourner chez
+l'aubergiste et le prévenir que le monstre est mort.</dialogue>
+</actions>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="False">Oh ! Bonjour !
+Je ne vous ai jamais vu dans cette region !</dialogue>
+    <dialogue joueur="True">C'est normal, c'est la première
+fois que je viens ici.</dialogue>
+    <dialogue joueur="False">Comment ça ?</dialogue>
+    <dialogue joueur="False">Vous voulez dire que vous avez trouvé
+un passage vers le sud ?</dialogue>
+    <dialogue joueur="True">Non, pas vraiment... On m'a laissé
+venir mais on ne me laissera pas repasser...</dialogue>
+    <dialogue joueur="False">Oh...</dialogue>
+    <dialogue joueur="False">Depuis que ces monstres ont
+envahi la région, elle est devenue invivable.</dialogue>
+    <dialogue joueur="False">Mais j'ai toujours vécu ici !
+Je ne connais pas de passage pour aller au sud,
+dans la zone sécurisée.</dialogue>
+    <dialogue joueur="False">Et avec ces monstes, je ne
+peux pu partir en chercher sans risques.</dialogue>
+    <dialogue joueur="False">Vous qui êtes venu jusqu'ici,
+vous pourriez chercher un passage pour moi ?</dialogue>
+    <dialogue joueur="True">Je peux toujours essayer.</dialogue>
+</actions>

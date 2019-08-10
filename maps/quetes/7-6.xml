@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">Bah...</dialogue>
+    <dialogue joueur="True">Alors c'était tout ?!</dialogue>
+    <dialogue joueur="True">Pas de récompense, rien ?</dialogue>
+    <dialogue joueur="True">...</dialogue>
+    <dialogue joueur="True">J'ai au moins récupéré un joli souvenir...</dialogue>
+</actions>

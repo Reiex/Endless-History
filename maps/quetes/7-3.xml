@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">Oh ! Des cristaux !</dialogue>
+    <dialogue joueur="True">Ca devient intéressant !</dialogue>
+    <dialogue joueur="True">Par conte le chemin commence à être long...</dialogue>
+</actions>

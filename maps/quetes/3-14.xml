@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">Il est mort.</dialogue>
+    <dialogue joueur="False">Parfait ! Voici pour vous.</dialogue>
+    <donner_objet type="5"/>
+    <donner_objet type="3"/>
+</actions>

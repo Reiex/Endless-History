@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">Un petit bout de papier dépasse
+entre deux livres.</dialogue>
+    <dialogue joueur="True">C'est une lettre cachée !
+Il y est écrit:</dialogue>
+    <dialogue joueur="True">"M.Hepsus, comme je vous l'ai dis
+lors de notre dernière rencontre, vos agissements plus que
+suspects ne sauraient être tolérés.</dialogue>
+    <dialogue joueur="True">Je suis désolé mais je ne peux
+plus faire comme si de rien était, j'en informerais
+donc le conseil d'Aubaric."</dialogue>
+    <dialogue joueur="True">Ah...
+Le voisin saura probablement qui est M.Hepsus.</dialogue>
+</actions>

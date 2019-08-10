@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">Oh !</dialogue>
+    <dialogue joueur="True">Je suis presque sûr que c'est pas une mort
+naturelle qui l'a transformé en pile d'os...</dialogue>
+</actions>

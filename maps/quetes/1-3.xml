@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">Considérez votre probleme comme reglé !</dialogue>
+    <dialogue joueur="False">Merci beaucoup !</dialogue>
+    <dialogue joueur="False">Je n'ai pas grand chose pour vous récompenser,
+mais certains aventuriers oublient parfois des affaires.</dialogue>
+    <dialogue joueur="False">Vous pouvez allez piocher dedans,
+elles se trouvent dans le coffre dans le coin de la pièce.</dialogue>
+</actions>

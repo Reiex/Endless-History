@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">M.Hepsus. Je présume...</dialogue>
+    <dialogue joueur="False">Oui ?</dialogue>
+    <dialogue joueur="True">Il semblerait que vous ayez laissé un tas d'os,
+dans la maison d'un de vos voisins.. Il semblerait même
+que ces os soient ceux du voisin.</dialogue>
+    <dialogue joueur="False">Vous avez une preuve ?</dialogue>
+    <dialogue joueur="True">Non mais le conseil de la ville
+serait très intéressé de voir la lettre qu'il comptait vous envoyer...</dialogue>
+    <immobilisation vitesse="250" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="False"/>
+    <deplacement x="1" y="0" joueur="False"/>
+    <deplacement x="1" y="0" joueur="False"/>
+    <deplacement x="1" y="0" joueur="False"/>
+    <deplacement x="1" y="0" joueur="False"/>
+    <deplacement x="1" y="0" joueur="False"/>
+    <deplacement x="1" y="0" joueur="False"/>
+    <deplacement x="0" y="-1" joueur="False"/>
+    <detruire/>
+    <dialogue joueur="True">Fuir ne sert pas à grand chose dans une maison
+avec une seule sortie..</dialogue>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="1" y="0" joueur="True"/>
+    <deplacement x="1" y="0" joueur="True"/>
+    <deplacement x="1" y="0" joueur="True"/>
+    <deplacement x="1" y="0" joueur="True"/>
+    <deplacement x="1" y="0" joueur="True"/>
+    <deplacement x="1" y="0" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+</actions>

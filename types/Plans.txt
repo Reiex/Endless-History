@@ -1,0 +1,12 @@
+Détermine à quel plan appartient un objet:
+
+0 = Décors
+1 = Meubles
+2 = Objets
+4 = Attaques
+6 = Monstres
+8 = PNJ
+10 = Joueur
+11 = Arme du joueur
+12 = Inteface
+14 = Message

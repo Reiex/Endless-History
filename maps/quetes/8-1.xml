@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">Une dimension de monstres...</dialogue>
+    <dialogue joueur="True">Plusieurs tableaux qui s'enchainent...</dialogue>
+    <dialogue joueur="True">Il doit y avoir une récompense
+intéressante à gagner !</dialogue>
+</actions>

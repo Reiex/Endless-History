@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">Voyons ce qu'on a là...</dialogue>
+    <dialogue joueur="True">Un os... </dialogue>
+    <dialogue joueur="True">Un autre os...</dialogue>
+    <dialogue joueur="True">Encore un... Je fais pas ça toute la journée hein !
+Je commence à en avoir marre de ces quêtes secondaires minables...</dialogue>
+    <dialogue joueur="True">Ah ! Une potion de vie ! J'éspère que ça périme pas.</dialogue>
+    <donner_objet type="5"/>
+    <dialogue joueur="True">Ah ! Encore mieux !</dialogue>
+    <donner_objet type="8"/>
+</actions>

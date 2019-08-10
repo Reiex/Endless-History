@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="False">Au lieu de discuter, vous voudriez pas
+vous rendre utile ?!</dialogue>
+    <dialogue joueur="False">On essaye d'étendre la zone protégée au sud-est,
+le long de la route vers la grande mine.</dialogue>
+    <dialogue joueur="False">Allez tuer quelques monstres au plateau du Goulot,
+ça vous défoulera.</dialogue>
+    <dialogue joueur="True">Quand c'est demandé si gentillement...</dialogue>
+</actions>

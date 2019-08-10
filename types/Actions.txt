@@ -1,0 +1,34 @@
+{Type} = {Nom action}
+*Nom des entités qui peuvent la faire*
+	- {arg}: {utilité}
+
+0 = déplacement
+*Joueur, Monstre, Pnj, Attaque*
+	- "direction": Liste [x, y] indiquant la direction du déplacement
+
+1 = attaque de base
+*Joueur, Monstre, Pnj*
+	- "frame": Indique à quelle frame en est l'attaque, c'est un marqueur temporel
+	- "vitesse": Temps en frame que doit durer l'attaque
+
+2 = mort
+*Joueur, Monstre, Pnj, Meuble, Attaque*
+	- "frame": Indique à quelle frame en est la mort, c'est un marqueur temporel
+	- "vitesse": Temps en frame que doit durer la mort
+
+3 = immobilisation
+*Joueur, Monstre, Pnj*
+	- "frame": Indique à quelle frame en est l'immobilisation, c'est un marqueur temporel
+	- "vitesse": Temps en frame que doit durer l'immobilisation
+
+4 = dialogue
+*Joueur, Monstre, Pnj, Meuble*
+	- "message": Chaine de caractère écrite dans la boite de dialogue
+
+6 = destruction
+*Monstre, Pnj, Meuble, Attaque*
+
+7 = utilisation d'objet
+*Joueur*
+	- "frame": Indique à quelle frame en est l'attaque, c'est un marqueur temporel
+	- "vitesse": Temps en frame que doit durer l'attaque

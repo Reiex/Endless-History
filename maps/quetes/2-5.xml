@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">Ah. Certes.</dialogue>
+    <dialogue joueur="True">Je commence à me dire que cette
+personne n'est pas M.Hepsus...</dialogue>
+    <dialogue joueur="True">Essayons de la retrouver !</dialogue>
+</actions>

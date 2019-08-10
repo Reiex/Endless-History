@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="False">Merci beaucoup !</dialogue>
+    <dialogue joueur="False">Voici, pour vous récompenser.</dialogue>
+    <donner_objet type="10"/>
+</actions>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+    <deplacement x="0" y="-1" joueur="True"/>
+
+    <deplacement x="1" y="0" joueur="True"/>
+
+    <deplacement x="0" y="-2" joueur="True"/>
+
+    <dialogue joueur="True">Une lettre est posée sur cette table:</dialogue>
+    <dialogue joueur="True">"Ces abominations sont de plus en plus nombreuses.</dialogue>
+    <dialogue joueur="True">Et leurs attaques sont de plus en plus coordonnées.</dialogue>
+    <dialogue joueur="True">Pendant plusieurs jours, aucune n'apparaît...
+puis d'un coup, elles sortent en groupes.</dialogue>
+    <dialogue joueur="True">De la rivière, des montagnes, de la grotte,
+elles arrivent toutes en même temps.</dialogue>
+    <dialogue joueur="True">J'ai commencé à creuser un tunnel, pour m'échapper.</dialogue>
+    <dialogue joueur="True">Mais cela prend du temps, et je dois tenir bon...
+me défendre.</dialogue>
+    <dialogue joueur="True">Cependant, si je ne suis pas assez rapide, je
+ne serai bientot plus de taille à lutter."</dialogue>
+</actions>

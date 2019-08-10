@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">...</dialogue>
+    <dialogue joueur="True">Je...</dialogue>
+    <dialogue joueur="True">J'y arrive plus. J'ai trop froid...</dialogue>
+    <dialogue joueur="True">...</dialogue>
+    <mort joueur="True"/>
+</actions>

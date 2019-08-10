@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="False">Bonjour !</dialogue>
+    <dialogue joueur="False">Vous voulez bien m'aider ?</dialogue>
+    <dialogue joueur="True">... De quoi s'agit-il ?</dialogue>
+    <dialogue joueur="False">Et bien... je comptais combattre ces monstres
+qui sont arrivés il y a peu.</dialogue>
+    <dialogue joueur="False">Mais il semblerais que j'ai oublié mon épée.</dialogue>
+    <dialogue joueur="False">Pourriez-vous aller la chercher chez ma fille ?</dialogue>
+    <dialogue joueur="False">Elle habite dans la petite maison au nord d'ici.</dialogue>
+    <dialogue joueur="True">D'accord.</dialogue>
+</actions>

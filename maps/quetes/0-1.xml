@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">Oh ! Une maison !</dialogue>
+    <dialogue joueur="True">On pourra peut être me dire
+où est-ce que je me trouve...</dialogue>
+    <dialogue joueur="True">D'ailleurs, pour me faire intéragir
+avec des personnes ou des meubles, il faut appuyer sur
+la touche E quand je me trouve en face d'eux.</dialogue>
+</actions>

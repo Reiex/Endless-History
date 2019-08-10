@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">Il y a pas grand chose là dedans...</dialogue>
+    <dialogue joueur="True">Oh ! J'ai trouvé !</dialogue>
+    <donner_objet type="4"/>
+</actions>

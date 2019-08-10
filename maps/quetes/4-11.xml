@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">Waouh ! Ils sont de plus en plus dangereux !</dialogue>
+    <dialogue joueur="True">Oh ! Un parchemin !</dialogue>
+    <donner_objet type="12"/>
+</actions>

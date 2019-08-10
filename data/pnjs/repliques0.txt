@@ -1,0 +1,5 @@
+Bonjour !
+.Que voulez-vous ?
+.Vous avez besoin d'aide ?
+.Pas maintenant, il faut que je retourne
+à la mine.

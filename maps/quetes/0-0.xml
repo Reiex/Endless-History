@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">Bonjour !</dialogue>
+    <dialogue joueur="True">Je m'appelle Reiex et comme tu peux le voir,
+je suis un héros de jeu vidéo !</dialogue>
+    <dialogue joueur="True">J'ai été créé il y a quelques temps au fond
+d'une caverne avec un clavier qui peux lancer des sorts !</dialogue>
+    <dialogue joueur="True">Enfin... pouvait...
+il pouvait lancer des sorts....</dialogue>
+    <dialogue joueur="True">Je viens d'en sortir et... apparemment...
+il ne fonctionne plus. Ahah !</dialogue>
+    <dialogue joueur="True">Comme il n'est pas question que je m'en
+débarasse et qu'il faut bien que je me défende, j'ai donc décidé
+de m'en servir... d'une autre manière</dialogue>
+    <dialogue joueur="True">Maintenant je suppose que tu veux
+savoir comment me déplacer ?</dialogue>
+    <dialogue joueur="True">Et bien c'est grâce aux touches Z, Q, S et D.</dialogue>
+    <dialogue joueur="True">Pour attaquer, il suffit de cliquer dans
+la bonne direction.</dialogue>
+</actions>

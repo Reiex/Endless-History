@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">Voilà, j'ai tué les quelques monstres qui traînaient</dialogue>
+    <dialogue joueur="False">Merveilleux ! Voici pour vous récompenser.</dialogue>
+    <donner_objet type="11"/>
+    <dialogue joueur="False">Et...</dialogue>
+    <dialogue joueur="True">Oui ?</dialogue>
+    <dialogue joueur="False">Il reste un de ces monstres qui s'est
+caché dans une grotte au nord du lac.</dialogue>
+    <dialogue joueur="False">Pourriez-vous vous en occuper ?</dialogue>
+    <dialogue joueur="True">J'y vais de ce pas.</dialogue>
+</actions>

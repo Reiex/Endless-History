@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">Voici donc Aubaric !</dialogue>
+    <dialogue joueur="True">Il ne reste plus qu'a trouver le chef
+de la ville.</dialogue>
+</actions>

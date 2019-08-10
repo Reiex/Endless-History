@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="False">Bonjour ! Que me voulez vous ?</dialogue>
+    <dialogue joueur="True">Bonjour, sous pourriez m'indiquer
+la ville la plus proche s'il vous plaît ?</dialogue>
+    <dialogue joueur="True">Je cherche à comprendre cette invasion de
+monstres et à aider à vous en débarrasser si possible...</dialogue>
+    <dialogue joueur="False">Et bien... il y a Capires, au nord.</dialogue>
+    <dialogue joueur="False">Elle a plutôt bien resisté, vous pourrez
+surement trouver quelqu'un qui sait ce qui s'est passé.</dialogue>
+    <dialogue joueur="True">Merci ! Vous n'auriez aucune
+information sur ces monstres par hasard ?</dialogue>
+    <dialogue joueur="False">Non. Pour tout dire les monstres
+ne s'aventurent que très rarement dans les parages...</dialogue>
+    <dialogue joueur="True">Vous vivez en dehors de la zone protégée pourtant...</dialogue>
+    <dialogue joueur="True">Bon. C'est pas grave, merci quand même !</dialogue>
+</actions>

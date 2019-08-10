@@ -1,0 +1,16 @@
+0 = Bibliothèque
+1 = Enclume
+2 = Four
+3 = Lit
+4 = Coffre
+5 = Panneau
+6 = Table
+7 = Pile d'os
+8 = Commode
+9 = Bloc de Glace
+10 = Rocher
+11 = Cristaux
+12 = Table avec lettre
+13 = Soldat mort
+14 = Pile de bois
+15 = Cristaux quête

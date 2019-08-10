@@ -1,0 +1,25 @@
+main-1 4480 1984
+Bienvenue à Aubaric !
+Nouvelle capitale de Faymont.
+.main-1 2176 2048
+Maison de Leonnaop, chef d'Aubaric.
+.main-1 832 448
+La route vers Minemart est fermée
+pour éviter un accident dû à la
+récente invasion de monstres.
+Merci de votre compréhension.
+.main-0 9664 1664
+Auberge de Braforet
+------------------>
+Aubaric
+<------
+.main-0 832 832
+Plateau du Goulot
+---------------->
+Aubaric
+<------
+.main-0 11264 5248
+Désolé, vous avez fait tout
+ce chemin pour rien.
+Vous n'avez pu qu'à faire le chemin
+dans l'autre sens.

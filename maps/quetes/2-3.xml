@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="False">Bonjour, que puis-je faire pour vous ?</dialogue>
+    <dialogue joueur="True">Bonjour, connaissez-vous un certain M.Hepsus ?</dialogue>
+    <dialogue joueur="False">Bien sûr, c'est l'homme qui possède la
+maison près de la route menant vers le nord.
+Au nord-ouest d'Aubaric.</dialogue>
+    <dialogue joueur="True">Et que fait-il dans la ville ?</dialogue>
+    <dialogue joueur="False">C'est un ancien garde à la retraite,
+il a arrêté peu après ses invasions.
+Un monstre l'avait gravement blessé...</dialogue>
+</actions>

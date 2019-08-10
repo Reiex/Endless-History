@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+
+    <dialogue joueur="True">Bonjour ! C'est bien par là Capires ?</dialogue>
+    <dialogue joueur="False">Oui. C'est bien là.</dialogue>
+    <dialogue joueur="False">Mais la route est barrée.</dialogue>
+    <dialogue joueur="True">Je peux passer ?</dialogue>
+    <dialogue joueur="False">Non. Il faut d'abord nous prouver que vous
+êtes capable de vous rendre utile.</dialogue>
+    <dialogue joueur="False">Allez tuer quelques monstres et revenez
+nous voir.</dialogue>
+    <dialogue joueur="True">...</dialogue>
+    <dialogue joueur="True">...</dialogue>
+    <dialogue joueur="True">Non.</dialogue>
+    <dialogue joueur="True">J'en ai marre de ces quêtes à la con.
+C'est humiliant !</dialogue>
+    <dialogue joueur="True">Déjà que ma vie se résume à se faire
+controler par quelques touches sur un clavier !</dialogue>
+    <dialogue joueur="True">Je devrais au moins avoir le droit à une histoire
+descente où des vraies quêtes. Pas ces vulgaires quêtes de
+remplissage !</dialogue>
+    <dialogue joueur="True">...</dialogue>
+    <dialogue joueur="True">J'en ai marre.</dialogue>
+
+    <final/>
+
+    <deplacement x="0" y="1" joueur="True"/>
+    <deplacement x="0" y="1" joueur="True"/>
+    <deplacement x="0" y="1" joueur="True"/>
+    <deplacement x="0" y="1" joueur="True"/>
+    <deplacement x="0" y="1" joueur="True"/>
+    <deplacement x="0" y="1" joueur="True"/>
+    <deplacement x="0" y="1" joueur="True"/>
+
+    <deplacement x="-1" y="0" joueur="True"/>
+    <deplacement x="-1" y="0" joueur="True"/>
+    <deplacement x="-1" y="0" joueur="True"/>
+    <deplacement x="-1" y="0" joueur="True"/>
+    <deplacement x="-1" y="0" joueur="True"/>
+    <deplacement x="-1" y="0" joueur="True"/>
+    <deplacement x="-1" y="0" joueur="True"/>
+    <deplacement x="-1" y="0" joueur="True"/>
+    <deplacement x="-1" y="0" joueur="True"/>
+    <deplacement x="-1" y="0" joueur="True"/>
+    <deplacement x="-1" y="0" joueur="True"/>
+    <deplacement x="-1" y="0" joueur="True"/>
+    <deplacement x="-1" y="0" joueur="True"/>
+    <deplacement x="-1" y="0" joueur="True"/>
+    <deplacement x="-1" y="0" joueur="True"/>
+
+</actions>

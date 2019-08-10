@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE entites SYSTEM "dtd/maps.dtd">
+
+<entites>
+    <monstres/>
+    <pnjs>
+        <pnj x="5952" y="64" type="3">
+            <quete quete="34" histoire="0"/>
+        </pnj>
+    </pnjs>
+    <meubles/>
+    <places>
+        <place x="192" y="12672" w="64" h="64">
+            <quete quete="27" histoire="0"/>
+        </place>
+        <place x="5824" y="7680" w="64" h="64">
+            <quete quete="28" histoire="0"/>
+        </place>
+        <place x="2944" y="7104" w="640" h="576">
+            <quete quete="30" histoire="0"/>
+        </place>
+        <place x="1152" y="256" w="256" h="384">
+            <quete quete="31" histoire="0"/>
+        </place>
+        <place x="5056" y="576" w="64" h="64">
+            <quete quete="32" histoire="0"/>
+        </place>
+        <place x="5760" y="64" w="448" h="256">
+            <quete quete="33" histoire="0"/>
+        </place>
+        <place x="1344" y="384" w="64" h="64">
+            <quete quete="7" histoire="8"/>
+        </place>
+        <place x="4224" y="4416" w="64" h="64">
+            <quete quete="6" histoire="7"/>
+        </place>
+    </places>
+</entites>

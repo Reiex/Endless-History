@@ -1,0 +1,4 @@
+0 = Monstre de base, violet, corps à corps
+1 = Monstre de base évolué, rouge, corps à corps longue portée
+2 = Monstre immobile, vert, qui attaque à distance avec des projectiles normaux
+3 = Monstre immobile, bleu, qui attaque à distance et autour de lui avec des projectiles normaux

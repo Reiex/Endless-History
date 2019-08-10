@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="False">Bonjour. Que voulez-vous ?</dialogue>
+    <dialogue joueur="True">J'ai croisé un vieil homme qui m'a dit
+qu'il avait oublié son épée en partant, vous êtes bien sa fille ?</dialogue>
+    <dialogue joueur="False">Oui c'est bien moi...</dialogue>
+    <dialogue joueur="False">Est-ce que vous pourriez l'aider pour
+chasser les monstres s'il vous plait ?</dialogue>
+    <dialogue joueur="False">Il n'est plus tout jeune et j'ai assez
+peur pour lui...</dialogue>
+    <dialogue joueur="True">Entendu, je ferais de mon mieux.</dialogue>
+</actions>

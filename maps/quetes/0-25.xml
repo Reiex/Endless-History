@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">Si cette caverne ne mène pas de
+l'autre côté, c'est qu'il n'y a aucun passage.</dialogue>
+    <dialogue joueur="True">Alors... faut croiser les doigts !</dialogue>
+</actions>

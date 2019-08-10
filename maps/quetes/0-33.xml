@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">Oh ! Des gardes !</dialogue>
+    <dialogue joueur="True">Avant d'aller leur parler, tu devrais
+peut être me faire finir mes quêtes secondaires...</dialogue>
+    <dialogue joueur="True">Ces gardes... ça sent mauvais, je sens
+que je vais pas pouvoir revenir ici...</dialogue>
+    <dialogue joueur="True">J'espère que ce jeu va enfin devenir
+intéressant... jusque là c'est pas terrible...</dialogue>
+</actions>

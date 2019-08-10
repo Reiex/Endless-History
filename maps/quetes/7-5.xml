@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">Oh ! Ce groupe de cristaux n'est pas
+de la même couleur que les autres...</dialogue>
+    <dialogue joueur="True">Je vais récupérer un petit cristal,
+en souvenir...</dialogue>
+    <donner_objet type="13"/>
+</actions>

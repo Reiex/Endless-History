@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">Nan mais oh ! C'est quoi ça ?!</dialogue>
+    <dialogue joueur="True">Depuis quand, lorsque tu trouve un cadavre,
+qui lance manifestement une quête, tu décide de quitter la maison ?!</dialogue>
+    <dialogue joueur="True">Allez ! Retourne là-dedans immédiatement
+et cherche un indice, quelque chose de suspect !</dialogue>
+</actions>

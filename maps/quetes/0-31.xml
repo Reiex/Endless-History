@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">On dirait que la route s'arrête ici.</dialogue>
+    <dialogue joueur="True">Il va falloir passer par ce sous-terrain
+pour aller à Capires.</dialogue>
+</actions>

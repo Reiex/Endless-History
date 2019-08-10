@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">Nous y voilà !</dialogue>
+    <dialogue joueur="True">Tuer une dizaine de monstres devrait
+être suffisant.</dialogue>
+</actions>

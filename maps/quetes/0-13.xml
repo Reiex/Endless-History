@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">Il faut donc que je trouve une de ces
+villes pour avoir des explications sur ces monstres...</dialogue>
+    <dialogue joueur="True">L'histoire de ce jeu n'est pas géniale...
+Mais je n'ai pas vraiment le choix...</dialogue>
+    <dialogue joueur="True">Avant de m'emmener au nord, n'oublie
+pas que j'ai peut être des quêtes secondaires à finir ici.</dialogue>
+</actions>

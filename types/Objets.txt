@@ -1,0 +1,18 @@
+0 = Coeur
+
+1 = Casque en cuir
+2 = Tunique
+3 = Pantalon
+4 = Bottes
+
+5 = Potion de vie
+6 = Parchemin de sort projectile
+7 = Parchemin d'attaque de feu
+
+8 = Bonnet de montagnard
+9 = Veste chaude de montagnard
+10 = Pantalon ample de montagnard
+11 = Chaussures de marche de montagnard
+
+12 = Parchemin d'explosions
+13 = Cristal orange

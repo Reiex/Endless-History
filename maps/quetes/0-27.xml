@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE actions SYSTEM "dtd/quetes.dtd">
+
+<actions>
+    <dialogue joueur="True">Ouf ! Enfin de l'autre côté
+de cette montagne !</dialogue>
+    <dialogue joueur="True">Bon, pas le temps de se reposer,
+il faut trouver une ville... ou ce qu'il en reste...</dialogue>
+</actions>
