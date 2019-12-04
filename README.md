@@ -22,5 +22,5 @@ Et pour finir (vos yeux) une petite image du jeu:
 
 ![Image du jeu](images/screenshot.png)
 
-Téléchargement de l'executable: [Mediafire](http://www.mediafire.com/file/65ijbhqp7sio8wj/Endless-caves.rar/file)
-Page Itch.io du jeu: [Itch.io/endless-history](https://my-fucking-games.itch.io/endless-history)
+- Téléchargement de l'executable: [Mediafire](http://www.mediafire.com/file/pkykgkkcrgaxbyj/Endless-history.rar/file)
+- Page Itch.io du jeu: [Itch.io/endless-history](https://my-fucking-games.itch.io/endless-history)
